@@ -1,7 +1,7 @@
 ## Accenture Developer Software Engineering Job Simulation
 
 **Accenture_SoftwareEngineer:** <br>
-I completed the Accenture Nordics Developer Software Engineering Job Simulation where I strengthened my skills in Agile development, programming, debugging, and testing. I gained hands-on experience in software architecture and security, as well as working with SDLC models (Agile &amp; Waterfall), enhancing my software engineering capabilities.
+I completed the Accenture Nordics Developer Software Engineering Job Simulation where I strengthened my skills in Agile development, programming, debugging, and testing. I gained hands-on experience in software architecture and security, as well as working with SDLC models (Agile &amp; Waterfall), enhancing my software engineering capabilities..
 
 **Repository Overview:**  
 This repository highlights my experience during the **Accenture Nordics Developer Software Engineering Job Simulation**. The program provided an in-depth experience into the core aspects of software engineering, including architecture, security, programming, testing, and agile methodologies. I worked on tasks that replicated the daily work of Accenture's developer team, gaining hands-on experience and strengthening my skills in these areas.
